@@ -1,0 +1,11 @@
+grantedPermissionMap: 
+  '*:*': 
+    - console
+    - u2432115441
+    - u824217305
+    - g982094103
+    - 'm982094103.*'
+  'xyz.cssxsh.mirai.plugin.pixiv-helper:command.pixiv': 
+    - 'm957992799.*'
+  'xyz.cssxsh.mirai.plugin.pixiv-helper:command.search': 
+    - 'm957992799.*'

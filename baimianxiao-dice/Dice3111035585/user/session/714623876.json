@@ -1,0 +1,21 @@
+{
+ "create_time": 1647160031,
+ "log": {
+  "file": "group_714623876_1647162731.txt",
+  "lastMsg": 0,
+  "logging": false,
+  "start": 0
+ },
+ "observer": [
+  3171442970
+ ],
+ "room": 714623876,
+ "tables": {
+  "先攻": {
+   "Dr.GF": 15,
+   "臭DD": 16
+  }
+ },
+ "type": "simple",
+ "update_time": 1647163021
+}

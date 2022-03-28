@@ -1,0 +1,13 @@
+<console>
+	<mode>1</mode>
+	<master>2432115441</master>
+	<clock>
+		<clear>11:45</clear>
+	</clock>
+	<conf>
+		<n>BannedBanInviter=1</n>
+		<n>BelieveDiceList=1</n>
+		<n>KickedBanInviter=1</n>
+		<n>LeaveBlackQQ=1</n>
+	</conf>
+</console>

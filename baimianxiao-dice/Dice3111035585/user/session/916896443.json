@@ -1,0 +1,16 @@
+{
+ "create_time": 1614692572,
+ "observer": [
+  3626356452
+ ],
+ "room": 916896443,
+ "tables": {
+  "先攻": {
+   "Malorth": 1,
+   "Malysh": 20,
+   "玛": 100
+  }
+ },
+ "type": "simple",
+ "update_time": 1617339191
+}

@@ -1,0 +1,29 @@
+{
+ "create_time": 1629430175,
+ "decks": {
+  "new": {
+   "idxs": [
+    0
+   ],
+   "meta": [
+    "阴阳师"
+   ],
+   "size": 1
+  }
+ },
+ "log": {
+  "file": "group_970657922_1629430744.txt",
+  "lastMsg": 0,
+  "logging": false,
+  "start": 0
+ },
+ "room": 970657922,
+ "tables": {
+  "先攻": {
+   "小猫耳": 3,
+   "老板": 11
+  }
+ },
+ "type": "simple",
+ "update_time": 1629430984
+}

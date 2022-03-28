@@ -1,0 +1,21 @@
+{
+ "create_time": 1634182077,
+ "log": {
+  "file": "group_188587570_1634269577.txt",
+  "lastMsg": 0,
+  "logging": false,
+  "start": 0
+ },
+ "observer": [
+  351434392,
+  3200129475
+ ],
+ "room": 188587570,
+ "tables": {
+  "先攻": {
+   "黄头趴你窗户上": 14
+  }
+ },
+ "type": "simple",
+ "update_time": 1634866577
+}

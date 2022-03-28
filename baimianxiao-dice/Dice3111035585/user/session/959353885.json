@@ -1,0 +1,15 @@
+{
+ "create_time": 1630818051,
+ "log": {
+  "file": "group_959353885_1630818297.txt",
+  "lastMsg": 0,
+  "logging": false,
+  "start": 1630818297
+ },
+ "observer": [
+  1020059925
+ ],
+ "room": 959353885,
+ "type": "simple",
+ "update_time": 1630818325
+}

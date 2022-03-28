@@ -1,0 +1,18 @@
+{
+ "create_time": 1639226904,
+ "log": {
+  "file": "group_328220812_1639307974.txt",
+  "lastMsg": 0,
+  "logging": false,
+  "start": 0
+ },
+ "room": 328220812,
+ "tables": {
+  "先攻": {
+   "兽人": 12,
+   "空想": 13
+  }
+ },
+ "type": "simple",
+ "update_time": 1639308048
+}
