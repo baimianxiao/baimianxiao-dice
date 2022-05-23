@@ -1,0 +1,2 @@
+{"time": 1651500737, "type": "reply", "dect": {"host_id": null, "group_id": "1032559768", "user_id": "2977694322"}, "sender": {"id": 3111035585, "name": "白面鸮"}, "message": "开始记录日志"}
+{"time": 1651500743, "type": "recv", "dect": {"host_id": null, "group_id": "1032559768", "user_id": "2977694322"}, "sender": {"id": "2977694322", "name": "🕊"}, "message": "。log off"}

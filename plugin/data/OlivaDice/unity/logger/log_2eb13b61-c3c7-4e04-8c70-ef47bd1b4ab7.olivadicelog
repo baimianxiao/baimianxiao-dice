@@ -1,0 +1,3 @@
+{"time": 1652272216, "type": "reply", "dect": {"host_id": null, "group_id": "978676627", "user_id": "1767513048"}, "sender": {"id": 3111035585, "name": "白面鸮"}, "message": "开始记录日志"}
+{"time": 1652272217, "type": "recv", "dect": {"host_id": null, "group_id": "978676627", "user_id": "1173807507"}, "sender": {"id": "1173807507", "name": "神父"}, "message": "神父开始新日志记录√\n请适时用.log off暂停或.log end完成记录"}
+{"time": 1652272222, "type": "recv", "dect": {"host_id": null, "group_id": "978676627", "user_id": "1767513048"}, "sender": {"id": "1767513048", "name": "Sheath(刀鞘)"}, "message": ".log off"}

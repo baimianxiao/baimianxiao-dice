@@ -1,0 +1,16 @@
+{
+    "name" : "白面鸮插件",
+    "author" : "baigugu",
+    "namespace" : "baimianxiao",
+    "priority" : 10000,
+    "svn" : 1,
+    "compatible_svn" : 100,
+    "message_mode" : "olivos_string",
+    "support" : [
+        {
+            "sdk" : "all",
+            "platform" : "qq",
+            "model" : "all"
+        }
+    ]
+}
